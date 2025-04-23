@@ -6,7 +6,7 @@ Confirmed fix: ?
 
 ## Automating Signature Identification 
 
-Path says tools are within Administrator folder but is student folder.
+Issue: Path says tools are within Administrator folder but is student folder.
 
 ```
 ThreatCheck does not provide a pre-compiled release to the public.
