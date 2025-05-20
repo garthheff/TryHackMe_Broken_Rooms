@@ -3,7 +3,7 @@
 Issues found: 20/5/2025 
 
 # Task 1 Introduction
-Attackbox does not have interface to to network yet
+Attackbox does not have interface network yet? did wait for network to start before starting attackbox 
 
 # Task 2 Mapping Out the Network
 This step is alittle odd, it sounds like it's saying this is how you add the ip's to the hosts.txt, but this is just for viewing 
