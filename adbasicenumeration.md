@@ -35,7 +35,8 @@ it should just the base name (no .txt):
 ``` enum4linux-ng -A 10.211.11.10 -oA results ```
 This will generate:
 
-results.txt
-results.xml
-results.json 
+- results.xml
+- results.json 
 
+even the switch description says 
+``` -oA: Writes output to YAML and JSON files.``` 
